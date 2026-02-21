@@ -3,4 +3,4 @@ primeiro repositorio do curso de git e github
 
 Repositorio novo
 
-meito legal
+muito legal
